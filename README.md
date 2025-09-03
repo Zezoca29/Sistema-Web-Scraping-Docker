@@ -78,7 +78,7 @@ Este projeto resolve o problema de **raspagem massiva de páginas web** de forma
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/distributed-web-scraping.git
+git clone https://github.com/seu-usuario/distributed-web-scraping.git](https://github.com/Zezoca29/Sistema-Web-Scraping-Docker.git
 cd distributed-web-scraping
 ```
 
@@ -147,7 +147,6 @@ O Grafana já vem configurado com o dashboard **“Distributed Web Scraping Syst
 * ✅ Arquitetura **real de produção**.
 * ✅ **Observabilidade completa** (métricas, dashboards, health checks).
 * ✅ Demonstração de **skills avançadas**: DevOps, Python, Distribuição, Monitoramento.
-* ✅ Perfeito para **portfólio de Engenheiro de Software**.
 
 ---
 
